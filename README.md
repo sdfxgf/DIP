@@ -8,7 +8,8 @@ Then we will calculate the distance from each color and find the shortest one.
 
 1. Color Detection Of Image
 ---------------------------
-![](Data/Image%20color%20Detection%20gif.gif)
+![image](https://github.com/sdfxgf/DIP/assets/168450535/4f2e85ce-4de5-44d8-b791-afa4f217bf5a)
+
 
 Requirements:
 --------------
